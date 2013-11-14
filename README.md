@@ -6,7 +6,7 @@ BreakOut Clone made wtih Monkey langage
 Version 1.0
 
 What done:
--Title menu\r
+-Title menu
 -Score
 -Win and Lose Conditions and screens
 -Game physics and mechanics
